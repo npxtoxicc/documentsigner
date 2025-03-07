@@ -53,8 +53,6 @@ python upload.py
 
 ## Technical Details
 
-- FTP Server: ftpupload.net
-- Upload destination: https://greenproject.rf.gd/upload/
 - QR code size: 30x30 pixels
 - Signature text: Two-line format
 - Supported format: PDF
@@ -84,10 +82,5 @@ If you encounter any of these issues:
 ## Contact
 
 For any issues or suggestions:
-- Email: rufat@example.com
-- GitHub: github.com/rufat
-- Website: greenproject.rf.gd
+ - İnstagram: rufatazizzade
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
